@@ -1,6 +1,6 @@
 import fastify from 'fastify'
 import { knex } from './database'
-import { env } from './env'
+import { env } from './env/index'
 
 const app = fastify()
 
