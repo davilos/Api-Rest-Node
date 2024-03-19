@@ -3,7 +3,7 @@
 Esta API funciona como transações bancárias. Podendo criar uma transação, buscar todas as transações ou apenas uma, e um resumo contendo
 a quantidade de dinheiro a qual foram usados nas transações. Utilizei cookies (com duração de 7 dias) para que o app pudesse indentificar o usuário.
 
-## Como iniciar
+## Como iniciar o projeto
 ```
 # Dentro da pasta do projeto
 npm install
@@ -15,7 +15,7 @@ npx knex migrate:latest
 npm run dev
 ```
 
-## Rodar testes
+## Como rodar os testes
 ```
 # Para rodar os testes E2E
 npm run test
