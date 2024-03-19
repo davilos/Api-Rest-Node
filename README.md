@@ -28,8 +28,8 @@ npm run test
 - Knex
 - Zod
 - Vitest
+- Supertest
 - Tsup
-- 
 
 ### RF - Requisitos Funcionais
 
